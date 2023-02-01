@@ -1,0 +1,118 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz"
+
+
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/1t5RRm05/Pixaloop-09-11-2021-21-03-10-1660000.gif",Обновление:01.02.2023
+https://drive.google.com/uc?export=download&id=1GURBIIwDEoJoUiZ-tPubo5q_x9p54E61
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/jjkkG8Pc/Imagem-Telegram-Logo-PNG-Preto.png",https://t.me/IPTV_FREE_NEONET
+https://drive.google.com/uc?export=download&id=1nWk_eLR6bw7kdGWy50ftULkuCu_NFdPa
+
+
+
+#EXTINF:0 type="stream" channelId="125" group="TEST (VPN)", Первый канал HD
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
+#EXTINF:0 type="stream" channelId="203" group="TEST (VPN)" logo="http://epg.it999.ru/img/984.png", Россия HD
+https://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:0 type="stream" channelId="498" group="TEST (VPN)" logo="http://epg.it999.ru/img/2001.png", НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/mono.m3u8
+#EXTINF:0 type="stream" channelId="589" group="С сайтов (VPN)", МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 type="stream" channelId="8" group="РуТьюб", ТВ3 HD
+https://bl.uma.media/live/407373/HLS/407373_7/1/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3630" group="VIRUSNET", ТНТ HD
+http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="77" group="РуТьюб", ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2915" group="Белтелеком", ТНТ-International
+http://178.124.210.172:8000/play/a03d/index.m3u8
+#EXTINF:0 type="stream" channelId="12" group="VIRUSNET", СТС HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1728" group="Cogent Communications", СТС Kids HD
+http://50.7.222.58:80/CTC_Kids_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="26" group="РуТьюб", Пятница HD
+https://bl.uma.media/live/410336/HLS/410336_7/1/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3876" group="РуТьюб" logo="http://www.vsetv.com/pic/channel_logos/1302.gif", Суббота HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="17" group="С сайтов", Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0 type="stream" channelId="3922" group="RAKETA-NET-AS", ПОБЕДА HD
+http://31.148.48.15:80/BBC_World_News/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="11" group="Lime HD", Рен ТВ
+https://mhd116.iptv2022.com/p/bfNW_SqYOxfVC-c8hR55Zg,1675282729/streaming/rentvott/324/1/index.m3u8
+#EXTINF:0 type="stream" channelId="3171" group="TEST  ⓵" logo="http://epg.it999.ru/img2/6028.png", Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="OTT Pink" logo="http://ottpink.network/picons/ictv_hd_ua.png", ICTV HD
+http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:0 type="stream" channelId="-1" group="TEST  ⓵" logo="https://kino.watch/img/logo.png", Kino Watch TV - Свежаки
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TEST  ⓵" logo="https://kino.watch/img/logo.png", Kino Watch TV - Документальные
+https://edge-01.kino.watch/docu/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TEST  ⓵" logo="https://kino.watch/img/logo.png", Kino Watch TV - ХИТ
+https://edge-01.kino.watch/hit/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TEST  ⓵" logo="https://kino.watch/img/logo.png", Kino Watch TV - Ужастик
+http://edge-01.kino.watch/horror/index.m3u8
+#EXTINF:0 type="stream" channelId="410" group="Белтелеком_2", КИНОПРЕМЬЕРА HD
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
+#EXTINF:0 type="stream" channelId="1859" group="СайберТек (VPN)", КИНОУЖАС HD
+http://45.139.184.147:71/kinouzhas/index.m3u8
+#EXTINF:0 type="stream" channelId="229" group="HD", Шокирующее HD
+http://6c57ee34.cbilant.com/iptv/T8KGP5XPR89VVK/6299/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TEST (VPN)" logo="https://i.ibb.co/nj7Bdbs/SGN-04-24-2022-1650746279377.png", BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TEST (VPN)" logo="https://i.ibb.co/X2Cqx73/SGN-04-24-2022-1650746943539.png", BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TEST (VPN)" logo="https://i.ibb.co/qspvCmv/SGN-05-01-2022-1651407692102.png", BACKUS TV Music
+https://stream.backustv.ru/live/vipbtv3/index.m3u8
+#EXTINF:0 type="stream" channelId="1633" group="TEST  ⓵" logo="http://ott.aet.az/stalker_portal/misc/logos/320/349.jpg", Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1637" group="TEST  ⓵", Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3925" group="Телеком-сервис", Приключения HD
+http://185.23.80.28:8080/Priklyucheniya_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="3881" group="Инфодом", ДИКАЯ ОХОТА HD
+http://91.220.135.165:81/37/index.m3u8
+#EXTINF:0 type="stream" channelId="3882" group="Телеком-сервис", Дикая рыбалка HD
+http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8
+#EXTINF:0 type="stream" channelId="335" group="Телеком-сервис", Охотник и рыболов HD
+http://185.23.80.28:8080/OxotnikIRybolov_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="4118" group="РуТьюб", Viasat Explore HD
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="130" group="РуТьюб", Viasat History HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="757" group="СайберТек (VPN)", Viasat Nature HD
+http://45.139.184.147:71/viasat_nature_hd/index.m3u8
+#EXTINF:0 type="stream" channelId="607" group="Cogent Communications", VIP Comedy HD
+http://50.7.222.58:80/VIP_Comedy/index.m3u8
+#EXTINF:0 type="stream" channelId="605" group="Smart Systems Technology", VIP Premiere HD
+https://edge02.smart.az/o6/vippremierhd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="606" group="Cogent Communications", VIP Megahit HD
+http://50.7.222.58:80/VIP_Megahit/index.m3u8
+#EXTINF:0 type="stream" channelId="3894" group="РуТьюб" logo="http://epg.it999.ru/img/2838.png", VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="66" group="TEST  ⓵", TV1000 HD
+http://45.143.108.104:80/TV1000_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="214" group="TEST  ⓵", TV 1000 ACTION HD
+http://45.143.108.104:80/TV1000ACTION_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="65" group="TEST  ⓵", TV 1000 Русское кино HD
+http://45.143.108.104:80/TV1000RU_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="2657" group="Smart Systems Technology", ДОМ КИНО ПРЕМИУМ HD
+https://edge02.smart.az/o8/domkinopremium/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1039" group="TEST  ⓵", АРСЕНАЛ HD
+http://45.143.108.104:80/arsenal/index.m3u8
+#EXTINF:0 type="stream" channelId="85" group="Smart Systems Technology", МАТЧ! АРЕНА HD
+https://edge02.smart.az/o4/matcharena/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2802" group="Cogent Communications", Bollywood HD
+http://50.7.222.58:80/Bollywood_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="3920" group="Cogent Communications", Hollywood HD
+http://50.7.222.58:80/Hollywood_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TEST  ⓵", Amedia 2
+http://45.143.108.104:80/AMEDIA2_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="915" group="Cogent Communications", Amedia Premium HD
+http://50.7.222.58:80/Amedia_Premium_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="596" group="RAKETA-NET-AS", Travel+Adventure HD
+http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="342" group="RAKETA-NET-AS", КИНО ТВ HD
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="-1" group="Hetzner Online AG_2", СТБ
+http://138.201.67.145:8081/STB/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="OTT Pink" logo="http://ottpink.network/picons/1plus1hd.png", 1+1 Марафон HD (UA)
+http://portal.ott.pink/watch/45/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
